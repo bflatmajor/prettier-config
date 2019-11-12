@@ -1,0 +1,17 @@
+{
+    "tabWidth": 4,
+    "semi": false,
+    "arrowParens": "always",
+    "bracketSpacing": false,
+
+    "overrides": [
+        {
+            "files": [
+                "package.json"
+            ],
+            "options": {
+                "tabWidth": 2
+            }
+        }
+    ]
+}

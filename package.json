@@ -1,0 +1,14 @@
+{
+  "name": "@boring/prettier-config",
+  "version": "1.0.0",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnirob/prettier-config.git"
+  },
+  "author": "Boring <boring@boring.wang> (https://boring.wang)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/gnirob/prettier-config/issues"
+  }
+}
